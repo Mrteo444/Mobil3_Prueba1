@@ -66,7 +66,7 @@ class _HomeState extends State<Home> {
      // fit: StackFit.expand,
       children: [
         Image.asset(
-           "assets/image/depositphotos_113092424-stock-illustration-planet-space-2.jpg",
+           "assets/image/blavnco.jpg",
           fit: BoxFit.cover,
          ),
         Column(
